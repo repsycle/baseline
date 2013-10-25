@@ -1,4 +1,4 @@
 baseline
 ========
 
-This serves as a baseline package for SPF
+Bootstrapping Baseline once more
